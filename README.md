@@ -26,7 +26,7 @@ git clone https://github.com/DileepGhanta/QuizApp.git
 - Go to directory
 
 ```
-$ cd Quiz-App
+cd Quiz-App
 ```
 - Install Dependency 
 ```
