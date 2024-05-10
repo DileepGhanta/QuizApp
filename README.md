@@ -14,7 +14,7 @@ This Currency Converter web app is built using React.js and Chakra UI. It provid
 
 
 ### Score Board Page 
-![image](https://user-images.githubusercontent.com/87645745/206397461-168cfe8f-2cbe-4d5e-a268-3540baf69ca5.png) 
+![image](./src/Assets/Screenshot%20(556).png) 
 
 ## Setup Steps
 
